@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/drieslab/drieslab.r-universe.dev
 	branch = HEAD
+[submodule "smotif"]
+	path = smotif
+	url = https://github.com/drieslab/smotif
+[submodule "smotifrs"]
+	path = smotifrs
+	url = https://github.com/drieslab/smotifrs
+[submodule "tilework"]
+	path = tilework
+	url = https://github.com/drieslab/tilework
