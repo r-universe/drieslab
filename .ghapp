@@ -1,0 +1,10 @@
+{
+  "id": 169344145,
+  "created_at": "2026-10-08T18:12:28.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["tilework", "smotif", "smotifrs", "drieslab.r-universe.dev"]
+}
