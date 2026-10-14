@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/drieslab/drieslab.r-universe.dev
 	branch = HEAD
+[submodule "cosmxscan"]
+	path = cosmxscan
+	url = https://github.com/drieslab/cosmxscan
 [submodule "smotif"]
 	path = smotif
 	url = https://github.com/drieslab/smotif
