@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["tilework", "smotif", "smotifrs", "drieslab.r-universe.dev"]
+  "repositories": ["tilework", "smotif", "smotifrs", "cosmxscan", "drieslab.r-universe.dev", "spatialDWLS"]
 }
