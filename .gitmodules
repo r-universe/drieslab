@@ -11,6 +11,9 @@
 [submodule "smotifrs"]
 	path = smotifrs
 	url = https://github.com/drieslab/smotifrs
+[submodule "spatialDWLS"]
+	path = spatialDWLS
+	url = https://github.com/drieslab/spatialDWLS
 [submodule "tilework"]
 	path = tilework
 	url = https://github.com/drieslab/tilework
