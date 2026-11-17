@@ -17,3 +17,4 @@
 [submodule "tilework"]
 	path = tilework
 	url = https://github.com/drieslab/tilework
+	branch = dev
