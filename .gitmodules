@@ -5,6 +5,12 @@
 [submodule "cosmxscan"]
 	path = cosmxscan
 	url = https://github.com/drieslab/cosmxscan
+[submodule "edgeicg"]
+	path = edgeicg
+	url = https://github.com/drieslab/edgeicg
+[submodule "edgeicgrs"]
+	path = edgeicgrs
+	url = https://github.com/drieslab/edgeicgrs
 [submodule "smotif"]
 	path = smotif
 	url = https://github.com/drieslab/smotif
